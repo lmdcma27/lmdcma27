@@ -25,7 +25,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 - 🔭 I am a physicist and mathematician with experience as a data analyst and currently thriving as a data engineer.
   
