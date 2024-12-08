@@ -1,11 +1,11 @@
-<!--  <p align="center">
+<p align="center">
   <img src="https://github.com/lmdcma27/WebPage/blob/testing/src/assets/images/WebPageLogo.png" height="200"/>
 </p>
-<br> -->
+<br> 
 
-<p align="left"> 
+<!--  <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
+ </p> -->
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-Data Engineering-brightgreen" />
